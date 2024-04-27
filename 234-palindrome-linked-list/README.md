@@ -36,4 +36,4 @@ Could you do it in `O(n)` time and `O(1)` space?
 
 ## Solutions
 
-[My solution](https://LeetCode.com/problems/roman-to-integer/solutions/5038615/palindrome-linked-list/)
+[My solution](https://LeetCode.com/problems/palindrome-linked-list/solutions/5038615/palindrome-linked-list/)
