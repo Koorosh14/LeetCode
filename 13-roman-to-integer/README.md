@@ -2,6 +2,7 @@
 `(Easy)`
 
 ## Description
+
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
 > **Symbol** > **Value**
@@ -30,7 +31,9 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 Given a roman numeral, convert it to an integer.
 
 ## Examples
+
 **Example 1:**
+
 > **Input:** s = "III"
 > 
 > **Output:** 3
@@ -38,6 +41,7 @@ Given a roman numeral, convert it to an integer.
 > **Explanation:** III = 3.
 
 **Example 2:**
+
 > **Input:** s = "LVIII"
 > 
 > **Output:** 58
@@ -45,6 +49,7 @@ Given a roman numeral, convert it to an integer.
 > **Explanation:** L = 50, V= 5, III = 3.
 
 **Example 3:**
+
 > **Input:** s = "MCMXCIV"
 > 
 > **Output:** 1994
@@ -52,9 +57,11 @@ Given a roman numeral, convert it to an integer.
 > **Explanation:** M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ## Constraints
+
 - `1 <= s.length <= 15`
 - `s` contains only the characters `('I', 'V', 'X', 'L', 'C', 'D', 'M')`.
 - It is guaranteed that `s` is a valid roman numeral in the range `[1, 3999]`.
 
 ## Solutions
+
 [My solution](https://LeetCode.com/problems/roman-to-integer/solutions/5028914/roman-to-integer/)

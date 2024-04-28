@@ -3,7 +3,7 @@
 
 ## Description
 
-Given the `head` of a singly linked list, return `true` if it is a palindrome[^1] or `false` otherwise.
+Given the `head` of a singly linked list, return `true` if it is a _palindrome_[^1] or `false` otherwise.
 
 [^1]: A palindrome is a sequence that reads the same forward and backward.
 
@@ -27,7 +27,7 @@ Given the `head` of a singly linked list, return `true` if it is a palindrome[^1
 
 ## Constraints
 
-- The number of nodes in the list is in the range `[1, 105]`.
+- The number of nodes in the list is in the range `[1, 10`<sup>`5`</sup>`]`.
 - `0 <= Node.val <= 9`
 
 ## Follow up

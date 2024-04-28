@@ -3,8 +3,7 @@
 
 ## Description
 
-
-Given two strings `ransomNote` and `magazine`, return `true` if `ransomNote` can be constructed by using the letters from `magazine` and `false` otherwise.
+Given two strings `ransomNote` and `magazine`, return `true` _if `ransomNote` can be constructed by using the letters from `magazine` and `false` otherwise_.
 
 Each letter in `magazine` can only be used once in `ransomNote`.
 
@@ -30,7 +29,7 @@ Each letter in `magazine` can only be used once in `ransomNote`.
 
 ## Constraints
 
-- `1 <= ransomNote.length, magazine.length <= 105`
+- `1 <= ransomNote.length, magazine.length <= 10`<sup>`5`</sup>
 - `ransomNote` and `magazine` consist of lowercase English letters.
 
 ## Solutions
