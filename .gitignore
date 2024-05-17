@@ -16,6 +16,8 @@ vendor/
 .idea/
 .vs/
 /*.tmp
+.classpath
+.project
 
 # ============ #
 # OS generated #
